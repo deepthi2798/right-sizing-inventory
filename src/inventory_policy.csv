@@ -1,0 +1,201 @@
+sku_id,product_family,sb_class,abc_tier,target_service_level,lead_time_weeks,corrected_weekly_forecast,expected_lead_time_demand,safety_stock_method,safety_stock,reorder_point,current_on_hand,gap_vs_reorder_point,status,latest_unit_cost,inventory_value
+CB-1001,Trip Unit,Intermittent,B,0.95,4.0,0.6099999999999999,22.5,Empirical bootstrap,49.5,72.0,45,-27.0,Below ROP -- order now,154.9,6970.5
+CB-1002,Terminal Block,Smooth,C,0.9,3.0,69.34,208.0,Parametric (z*sigma*sqrt(LT)),42.0,250.0,65,-185.0,Below ROP -- order now,19.22,1249.3
+CB-1003,Contact Assembly,Intermittent,C,0.9,5.0,6.81,40.9,Empirical bootstrap,50.1,91.0,0,-91.0,AT ZERO -- order now,142.03,0.0
+CB-1004,Molded Case,Smooth,A,0.98,5.0,175.45999999999998,877.3,Parametric (z*sigma*sqrt(LT)),58.2,935.5,510,-425.5,Below ROP -- order now,82.44,42044.4
+CB-1005,Trip Unit,Smooth,A,0.98,2.0,70.31,140.6,Parametric (z*sigma*sqrt(LT)),10.7,151.3,235,83.7,At/above ROP -- OK,116.79,27445.65
+CB-1006,Terminal Block,Intermittent,C,0.9,6.0,13.07,53.5,Empirical bootstrap,37.5,91.0,11,-80.0,Below ROP -- order now,81.21,893.31
+CB-1007,Contact Assembly,Smooth,C,0.9,1.0,147.59,147.6,Parametric (z*sigma*sqrt(LT)),16.2,163.8,425,261.2,At/above ROP -- OK,13.83,5877.75
+CB-1008,Molded Case,Intermittent,C,0.9,4.0,18.85,45.9,Empirical bootstrap,53.1,99.0,0,-99.0,AT ZERO -- order now,114.62,0.0
+CB-1009,Trip Unit,Intermittent,B,0.95,5.0,10.46,34.6,Empirical bootstrap,64.4,99.0,43,-56.0,Below ROP -- order now,174.8,7516.400000000001
+CB-1010,Terminal Block,Intermittent,C,0.9,3.0,14.2,21.4,Empirical bootstrap,29.6,51.0,0,-51.0,AT ZERO -- order now,140.66,0.0
+CB-1011,Contact Assembly,Smooth,C,0.9,3.0,141.48999999999998,424.5,Parametric (z*sigma*sqrt(LT)),17.5,442.0,413,-29.0,Below ROP -- order now,10.28,4245.639999999999
+CB-1012,Molded Case,Smooth,A,0.98,3.0,152.42,457.3,Parametric (z*sigma*sqrt(LT)),39.7,497.0,418,-79.0,Below ROP -- order now,123.74,51723.32
+CB-1013,Trip Unit,Smooth,C,0.9,3.0,110.98,332.9,Parametric (z*sigma*sqrt(LT)),57.5,390.4,24,-366.4,Below ROP -- order now,60.33,1447.92
+CB-1014,Terminal Block,Smooth,C,0.9,6.0,109.98,659.9,Parametric (z*sigma*sqrt(LT)),28.8,688.7,51,-637.7,Below ROP -- order now,85.85,4378.349999999999
+CB-1015,Contact Assembly,Smooth,A,0.98,3.0,145.6,436.8,Parametric (z*sigma*sqrt(LT)),28.4,465.2,508,42.8,At/above ROP -- OK,86.94,44165.52
+CB-1016,Molded Case,Smooth,A,0.98,1.0,130.28,130.3,Parametric (z*sigma*sqrt(LT)),22.5,152.8,434,281.2,At/above ROP -- OK,121.39,52683.26
+CB-1017,Trip Unit,Smooth,A,0.98,1.0,70.78999999999999,70.8,Parametric (z*sigma*sqrt(LT)),14.9,85.7,186,100.3,At/above ROP -- OK,126.8,23584.8
+CB-1018,Terminal Block,Smooth,A,0.98,5.0,138.2,691.0,Parametric (z*sigma*sqrt(LT)),35.3,726.3,481,-245.3,Below ROP -- order now,150.23,72260.62999999999
+CB-1019,Contact Assembly,Intermittent,C,0.9,6.0,8.7,54.5,Empirical bootstrap,53.5,108.0,10,-98.0,Below ROP -- order now,53.68,536.8
+CB-1020,Molded Case,Smooth,C,0.9,3.0,58.44,175.3,Parametric (z*sigma*sqrt(LT)),42.1,217.4,34,-183.4,Below ROP -- order now,27.31,928.54
+CB-1021,Trip Unit,Smooth,A,0.98,5.0,86.62,433.1,Parametric (z*sigma*sqrt(LT)),29.7,462.8,302,-160.8,Below ROP -- order now,142.18,42938.36
+CB-1022,Terminal Block,Smooth,B,0.95,1.0,54.35,54.4,Parametric (z*sigma*sqrt(LT)),25.4,79.8,137,57.2,At/above ROP -- OK,127.67,17490.79
+CB-1023,Contact Assembly,Intermittent,C,0.9,4.0,18.39,31.1,Empirical bootstrap,33.9,65.0,12,-53.0,Below ROP -- order now,103.45,1241.4
+CB-1024,Molded Case,Smooth,C,0.9,3.0,75.5,226.5,Parametric (z*sigma*sqrt(LT)),17.4,243.9,15,-228.9,Below ROP -- order now,22.83,342.45
+CB-1025,Trip Unit,Smooth,B,0.95,4.0,113.73,454.9,Parametric (z*sigma*sqrt(LT)),95.5,550.4,109,-441.4,Below ROP -- order now,102.83,11208.47
+CB-1026,Terminal Block,Intermittent,C,0.9,3.0,8.48,26.2,Empirical bootstrap,47.8,74.0,36,-38.0,Below ROP -- order now,115.16,4145.76
+CB-1027,Contact Assembly,Smooth,B,0.95,1.0,73.11,73.1,Parametric (z*sigma*sqrt(LT)),31.2,104.3,132,27.7,At/above ROP -- OK,56.45,7451.400000000001
+CB-1028,Molded Case,Smooth,B,0.95,4.0,131.03,524.1,Parametric (z*sigma*sqrt(LT)),18.1,542.2,107,-435.2,Below ROP -- order now,80.02,8562.14
+CB-1029,Trip Unit,Smooth,A,0.98,2.0,109.09,218.2,Parametric (z*sigma*sqrt(LT)),24.0,242.2,202,-40.2,Below ROP -- order now,153.98,31103.96
+CB-1030,Terminal Block,Smooth,C,0.9,3.0,120.51,361.5,Parametric (z*sigma*sqrt(LT)),15.5,377.0,75,-302.0,Below ROP -- order now,12.85,963.75
+CB-1031,Contact Assembly,Smooth,B,0.95,6.0,69.98,419.9,Parametric (z*sigma*sqrt(LT)),17.4,437.3,57,-380.3,Below ROP -- order now,119.99,6839.429999999999
+CB-1032,Molded Case,Smooth,A,0.98,2.0,57.79,115.6,Parametric (z*sigma*sqrt(LT)),43.0,158.6,168,9.4,At/above ROP -- OK,141.64,23795.52
+CB-1033,Trip Unit,Smooth,B,0.95,3.0,41.35,124.0,Parametric (z*sigma*sqrt(LT)),41.3,165.3,73,-92.3,Below ROP -- order now,146.99,10730.27
+CB-1034,Terminal Block,Smooth,C,0.9,3.0,106.3,318.9,Parametric (z*sigma*sqrt(LT)),19.6,338.5,332,-6.5,Below ROP -- order now,6.53,2167.96
+CB-1035,Contact Assembly,Smooth,A,0.98,5.0,154.31,771.6,Parametric (z*sigma*sqrt(LT)),51.6,823.2,450,-373.2,Below ROP -- order now,84.48,38016.0
+CB-1036,Molded Case,Smooth,C,0.9,5.0,68.63,343.2,Parametric (z*sigma*sqrt(LT)),13.6,356.8,7,-349.8,Below ROP -- order now,91.44,640.0799999999999
+CB-1037,Trip Unit,Smooth,C,0.9,3.0,76.39999999999999,229.2,Parametric (z*sigma*sqrt(LT)),20.1,249.3,0,-249.3,AT ZERO -- order now,81.69,0.0
+CB-1038,Terminal Block,Smooth,B,0.95,5.0,67.71,338.5,Parametric (z*sigma*sqrt(LT)),19.5,358.0,185,-173.0,Below ROP -- order now,56.02,10363.7
+CB-1039,Contact Assembly,Smooth,C,0.9,4.0,39.199999999999996,156.8,Parametric (z*sigma*sqrt(LT)),45.1,201.9,216,14.1,At/above ROP -- OK,18.06,3900.96
+CB-1040,Molded Case,Smooth,A,0.98,3.0,77.60000000000001,232.8,Parametric (z*sigma*sqrt(LT)),17.2,250.0,240,-10.0,Below ROP -- order now,173.24,41577.600000000006
+CB-1041,Trip Unit,Intermittent,C,0.9,3.0,28.980000000000004,19.3,Empirical bootstrap,36.7,56.0,0,-56.0,AT ZERO -- order now,49.69,0.0
+CB-1042,Terminal Block,Intermittent,C,0.9,5.0,13.870000000000001,36.2,Empirical bootstrap,42.8,79.0,0,-79.0,AT ZERO -- order now,140.73,0.0
+CB-1043,Contact Assembly,Smooth,C,0.9,5.0,38.2,191.0,Parametric (z*sigma*sqrt(LT)),29.5,220.5,27,-193.5,Below ROP -- order now,50.82,1372.14
+CB-1044,Molded Case,Smooth,A,0.98,3.0,99.62,298.9,Parametric (z*sigma*sqrt(LT)),25.3,324.2,354,29.8,At/above ROP -- OK,162.71,57599.34
+CB-1045,Trip Unit,Smooth,B,0.95,5.0,67.09,335.5,Parametric (z*sigma*sqrt(LT)),42.8,378.3,182,-196.3,Below ROP -- order now,56.81,10339.42
+CB-1046,Terminal Block,Smooth,C,0.9,2.0,73.16,146.3,Parametric (z*sigma*sqrt(LT)),24.3,170.6,0,-170.6,AT ZERO -- order now,33.88,0.0
+CB-1047,Contact Assembly,Intermittent,C,0.9,1.0,14.84,5.4,Empirical bootstrap,19.6,25.0,24,-1.0,Below ROP -- order now,130.2,3124.8
+CB-1048,Molded Case,Smooth,A,0.98,5.0,83.16999999999999,415.8,Parametric (z*sigma*sqrt(LT)),39.3,455.1,210,-245.1,Below ROP -- order now,113.85,23908.5
+CB-1049,Trip Unit,Smooth,C,0.9,1.0,114.10000000000001,114.1,Parametric (z*sigma*sqrt(LT)),65.3,179.4,239,59.6,At/above ROP -- OK,17.49,4180.11
+CB-1050,Terminal Block,Smooth,C,0.9,8.0,72.8,582.4,Parametric (z*sigma*sqrt(LT)),70.0,652.4,0,-652.4,AT ZERO -- order now,9.89,0.0
+CB-1051,Contact Assembly,Smooth,C,0.9,2.0,32.35,64.7,Parametric (z*sigma*sqrt(LT)),15.6,80.3,7,-73.3,Below ROP -- order now,28.15,197.05
+CB-1052,Molded Case,Smooth,A,0.98,2.0,95.61,191.2,Parametric (z*sigma*sqrt(LT)),26.0,217.2,281,63.8,At/above ROP -- OK,106.81,30013.61
+CB-1053,Trip Unit,Smooth,A,0.98,2.0,96.46,192.9,Parametric (z*sigma*sqrt(LT)),20.2,213.1,259,45.9,At/above ROP -- OK,105.64,27360.76
+CB-1054,Terminal Block,Smooth,B,0.95,6.0,150.89000000000001,905.3,Parametric (z*sigma*sqrt(LT)),48.0,953.3,113,-840.3,Below ROP -- order now,107.39,12135.07
+CB-1055,Contact Assembly,Smooth,A,0.98,1.0,110.13,110.1,Parametric (z*sigma*sqrt(LT)),13.2,123.3,249,125.7,At/above ROP -- OK,88.11,21939.39
+CB-1056,Molded Case,Intermittent,C,0.9,6.0,2.34,25.7,Empirical bootstrap,38.3,64.0,30,-34.0,Below ROP -- order now,17.18,515.4
+CB-1057,Trip Unit,Smooth,B,0.95,5.0,35.72,178.6,Parametric (z*sigma*sqrt(LT)),27.8,206.4,48,-158.4,Below ROP -- order now,168.96,8110.08
+CB-1058,Terminal Block,Smooth,C,0.9,3.0,24.26,72.8,Parametric (z*sigma*sqrt(LT)),17.0,89.8,40,-49.8,Below ROP -- order now,86.54,3461.6000000000004
+CB-1059,Contact Assembly,Smooth,C,0.9,6.0,87.54,525.2,Parametric (z*sigma*sqrt(LT)),25.1,550.3,10,-540.3,Below ROP -- order now,94.92,949.2
+CB-1060,Molded Case,Smooth,C,0.9,2.0,95.02,190.0,Parametric (z*sigma*sqrt(LT)),6.4,196.4,271,74.6,At/above ROP -- OK,6.34,1718.14
+CB-1061,Trip Unit,Lumpy,C,0.9,1.0,14.58,5.3,Empirical bootstrap,14.7,20.0,39,19.0,At/above ROP -- OK,27.39,1068.21
+CB-1062,Terminal Block,Smooth,C,0.9,6.0,48.410000000000004,290.5,Parametric (z*sigma*sqrt(LT)),31.2,321.7,216,-105.7,Below ROP -- order now,21.77,4702.32
+CB-1063,Contact Assembly,Smooth,C,0.9,1.0,39.14,39.1,Parametric (z*sigma*sqrt(LT)),10.3,49.4,34,-15.4,Below ROP -- order now,119.55,4064.7
+CB-1064,Molded Case,Smooth,A,0.98,2.0,87.81,175.6,Parametric (z*sigma*sqrt(LT)),87.7,263.3,291,27.7,At/above ROP -- OK,138.93,40428.630000000005
+CB-1065,Trip Unit,Smooth,C,0.9,4.0,81.18,324.7,Parametric (z*sigma*sqrt(LT)),7.8,332.5,143,-189.5,Below ROP -- order now,43.36,6200.48
+CB-1066,Terminal Block,Smooth,B,0.95,6.0,59.11,354.7,Parametric (z*sigma*sqrt(LT)),13.7,368.4,182,-186.4,Below ROP -- order now,100.99,18380.18
+CB-1067,Contact Assembly,Smooth,C,0.9,2.0,94.42,188.8,Parametric (z*sigma*sqrt(LT)),12.7,201.5,33,-168.5,Below ROP -- order now,145.96,4816.68
+CB-1068,Molded Case,Smooth,A,0.98,5.0,73.8,369.0,Parametric (z*sigma*sqrt(LT)),27.9,396.9,197,-199.9,Below ROP -- order now,171.64,33813.079999999994
+CB-1069,Trip Unit,Smooth,B,0.95,4.0,157.74,631.0,Parametric (z*sigma*sqrt(LT)),39.1,670.1,281,-389.1,Below ROP -- order now,47.93,13468.33
+CB-1070,Terminal Block,Intermittent,C,0.9,4.0,2.4699999999999998,24.9,Empirical bootstrap,36.1,61.0,53,-8.0,Below ROP -- order now,31.72,1681.16
+CB-1071,Contact Assembly,Smooth,C,0.9,2.0,133.51,267.0,Parametric (z*sigma*sqrt(LT)),22.1,289.1,35,-254.1,Below ROP -- order now,178.65,6252.75
+CB-1072,Molded Case,Intermittent,C,0.9,3.0,1.9299999999999997,14.1,Empirical bootstrap,33.9,48.0,38,-10.0,Below ROP -- order now,135.38,5144.44
+CB-1073,Trip Unit,Intermittent,C,0.9,2.0,0.0,14.1,Empirical bootstrap,33.9,48.0,28,-20.0,Below ROP -- order now,94.6,2648.8
+CB-1074,Terminal Block,Smooth,A,0.98,6.0,88.84,533.0,Parametric (z*sigma*sqrt(LT)),24.8,557.8,319,-238.8,Below ROP -- order now,139.53,44510.07
+CB-1075,Contact Assembly,Smooth,C,0.9,3.0,110.58,331.7,Parametric (z*sigma*sqrt(LT)),86.9,418.6,22,-396.6,Below ROP -- order now,19.27,423.94
+CB-1076,Molded Case,Smooth,B,0.95,3.0,93.11999999999999,279.4,Parametric (z*sigma*sqrt(LT)),101.1,380.5,304,-76.5,Below ROP -- order now,49.09,14923.36
+CB-1077,Trip Unit,Intermittent,C,0.9,6.0,3.4599999999999995,63.0,Empirical bootstrap,62.0,125.0,70,-55.0,Below ROP -- order now,24.29,1700.3
+CB-1078,Terminal Block,Intermittent,C,0.9,2.0,5.07,22.1,Empirical bootstrap,33.9,56.0,54,-2.0,Below ROP -- order now,29.71,1604.34
+CB-1079,Contact Assembly,Smooth,A,0.98,3.0,54.17,162.5,Parametric (z*sigma*sqrt(LT)),12.6,175.1,180,4.9,At/above ROP -- OK,157.73,28391.4
+CB-1080,Molded Case,Smooth,B,0.95,4.0,70.93,283.7,Parametric (z*sigma*sqrt(LT)),20.2,303.9,133,-170.9,Below ROP -- order now,57.58,7658.139999999999
+CB-1081,Trip Unit,Intermittent,C,0.9,2.0,0.0,15.2,Empirical bootstrap,36.8,52.0,61,9.0,At/above ROP -- OK,91.38,5574.179999999999
+CB-1082,Terminal Block,Smooth,C,0.9,6.0,98.45,590.7,Parametric (z*sigma*sqrt(LT)),26.5,617.2,68,-549.2,Below ROP -- order now,4.97,337.96
+CB-1083,Contact Assembly,Smooth,A,0.98,2.0,118.61,237.2,Parametric (z*sigma*sqrt(LT)),30.5,267.7,225,-42.7,Below ROP -- order now,122.78,27625.5
+CB-1084,Molded Case,Smooth,A,0.98,1.0,154.35000000000002,154.4,Parametric (z*sigma*sqrt(LT)),16.1,170.5,469,298.5,At/above ROP -- OK,92.37,43321.53
+CB-1085,Trip Unit,Smooth,C,0.9,5.0,112.42,562.1,Parametric (z*sigma*sqrt(LT)),71.4,633.5,67,-566.5,Below ROP -- order now,37.96,2543.32
+CB-1086,Terminal Block,Intermittent,B,0.95,4.0,4.04,46.5,Empirical bootstrap,74.5,121.0,84,-37.0,Below ROP -- order now,129.48,10876.32
+CB-1087,Contact Assembly,Smooth,C,0.9,5.0,80.42,402.1,Parametric (z*sigma*sqrt(LT)),38.3,440.4,239,-201.4,Below ROP -- order now,24.47,5848.33
+CB-1088,Molded Case,Intermittent,C,0.9,1.0,7.94,4.5,Empirical bootstrap,19.5,24.0,18,-6.0,Below ROP -- order now,73.07,1315.2599999999998
+CB-1089,Trip Unit,Smooth,A,0.98,1.0,109.98,110.0,Parametric (z*sigma*sqrt(LT)),11.9,121.9,264,142.1,At/above ROP -- OK,120.16,31722.24
+CB-1090,Terminal Block,Intermittent,C,0.9,3.0,6.28,21.7,Empirical bootstrap,26.3,48.0,38,-10.0,Below ROP -- order now,53.34,2026.92
+CB-1091,Contact Assembly,Intermittent,C,0.9,3.0,1.6599999999999997,16.6,Empirical bootstrap,35.6,52.2,47,-5.2,Below ROP -- order now,101.05,4749.349999999999
+CB-1092,Molded Case,Smooth,C,0.9,1.0,30.47,30.5,Parametric (z*sigma*sqrt(LT)),11.6,42.1,108,65.9,At/above ROP -- OK,21.3,2300.4
+CB-1093,Trip Unit,Smooth,A,0.98,5.0,98.31,491.6,Parametric (z*sigma*sqrt(LT)),49.6,541.2,300,-241.2,Below ROP -- order now,174.01,52203.0
+CB-1094,Terminal Block,Smooth,A,0.98,3.0,64.31,192.9,Parametric (z*sigma*sqrt(LT)),67.6,260.5,250,-10.5,Below ROP -- order now,168.11,42027.5
+CB-1095,Contact Assembly,Intermittent,C,0.9,3.0,0.0,16.3,Empirical bootstrap,34.7,51.0,39,-12.0,Below ROP -- order now,141.8,5530.200000000001
+CB-1096,Molded Case,Smooth,C,0.9,3.0,56.650000000000006,170.0,Parametric (z*sigma*sqrt(LT)),7.0,177.0,197,20.0,At/above ROP -- OK,21.87,4308.39
+CB-1097,Trip Unit,Intermittent,C,0.9,2.0,12.629999999999999,20.5,Empirical bootstrap,38.5,59.0,0,-59.0,AT ZERO -- order now,43.79,0.0
+CB-1098,Terminal Block,Smooth,B,0.95,5.0,50.39,252.0,Parametric (z*sigma*sqrt(LT)),67.8,319.8,153,-166.8,Below ROP -- order now,110.07,16840.71
+CB-1099,Contact Assembly,Intermittent,C,0.9,5.0,14.55,36.2,Empirical bootstrap,37.8,74.0,0,-74.0,AT ZERO -- order now,75.73,0.0
+CB-1100,Molded Case,Smooth,B,0.95,4.0,142.02,568.1,Parametric (z*sigma*sqrt(LT)),32.7,600.8,231,-369.8,Below ROP -- order now,78.09,18038.79
+CB-1101,Trip Unit,Smooth,C,0.9,6.0,65.03,390.2,Parametric (z*sigma*sqrt(LT)),34.4,424.6,62,-362.6,Below ROP -- order now,83.07,5150.339999999999
+CB-1102,Terminal Block,Smooth,B,0.95,6.0,95.5,573.0,Parametric (z*sigma*sqrt(LT)),39.1,612.1,298,-314.1,Below ROP -- order now,44.51,13263.98
+CB-1103,Contact Assembly,Smooth,B,0.95,6.0,71.60000000000001,429.6,Parametric (z*sigma*sqrt(LT)),117.5,547.1,318,-229.1,Below ROP -- order now,21.19,6738.42
+CB-1104,Molded Case,Smooth,A,0.98,5.0,141.86,709.3,Parametric (z*sigma*sqrt(LT)),34.9,744.2,439,-305.2,Below ROP -- order now,108.01,47416.39
+CB-1105,Trip Unit,Smooth,C,0.9,2.0,106.31,212.6,Parametric (z*sigma*sqrt(LT)),18.7,231.3,35,-196.3,Below ROP -- order now,57.58,2015.3
+CB-1106,Terminal Block,Smooth,A,0.98,5.0,86.2,431.0,Parametric (z*sigma*sqrt(LT)),41.0,472.0,212,-260.0,Below ROP -- order now,165.97,35185.64
+CB-1107,Contact Assembly,Smooth,B,0.95,1.0,134.63,134.6,Parametric (z*sigma*sqrt(LT)),12.8,147.4,414,266.6,At/above ROP -- OK,29.77,12324.78
+CB-1108,Molded Case,Smooth,C,0.9,2.0,133.63,267.3,Parametric (z*sigma*sqrt(LT)),20.2,287.5,384,96.5,At/above ROP -- OK,6.25,2400.0
+CB-1109,Trip Unit,Smooth,C,0.9,2.0,60.67,121.3,Parametric (z*sigma*sqrt(LT)),8.6,129.9,158,28.1,At/above ROP -- OK,11.98,1892.84
+CB-1110,Terminal Block,Smooth,A,0.98,2.0,127.69,255.4,Parametric (z*sigma*sqrt(LT)),143.6,399.0,260,-139.0,Below ROP -- order now,123.33,32065.8
+CB-1111,Contact Assembly,Smooth,A,0.98,5.0,129.51,647.6,Parametric (z*sigma*sqrt(LT)),61.0,708.6,341,-367.6,Below ROP -- order now,92.05,31389.05
+CB-1112,Molded Case,Intermittent,C,0.9,2.0,14.53,7.0,Empirical bootstrap,24.0,31.0,0,-31.0,AT ZERO -- order now,153.58,0.0
+CB-1113,Trip Unit,Smooth,A,0.98,3.0,143.42000000000002,430.3,Parametric (z*sigma*sqrt(LT)),21.6,451.9,499,47.1,At/above ROP -- OK,44.52,22215.480000000003
+CB-1114,Terminal Block,Smooth,B,0.95,2.0,58.51,117.0,Parametric (z*sigma*sqrt(LT)),8.9,125.9,158,32.1,At/above ROP -- OK,103.89,16414.62
+CB-1115,Contact Assembly,Smooth,B,0.95,2.0,66.12,132.2,Parametric (z*sigma*sqrt(LT)),8.6,140.8,231,90.2,At/above ROP -- OK,68.82,15897.419999999998
+CB-1116,Molded Case,Smooth,C,0.9,1.0,72.79,72.8,Parametric (z*sigma*sqrt(LT)),38.9,111.7,178,66.3,At/above ROP -- OK,20.55,3657.9
+CB-1117,Trip Unit,Intermittent,C,0.9,1.0,0.0,6.1,Empirical bootstrap,27.9,34.0,30,-4.0,Below ROP -- order now,166.66,4999.8
+CB-1118,Terminal Block,Smooth,A,0.98,1.0,160.46,160.5,Parametric (z*sigma*sqrt(LT)),31.6,192.1,390,197.9,At/above ROP -- OK,152.23,59369.7
+CB-1119,Contact Assembly,Intermittent,C,0.9,2.0,8.04,16.6,Empirical bootstrap,39.6,56.2,19,-37.2,Below ROP -- order now,144.86,2752.34
+CB-1120,Molded Case,Intermittent,C,0.9,6.0,8.38,24.1,Empirical bootstrap,33.9,58.0,17,-41.0,Below ROP -- order now,116.54,1981.18
+CB-1121,Trip Unit,Intermittent,C,0.9,5.0,5.46,47.7,Empirical bootstrap,38.3,86.0,64,-22.0,Below ROP -- order now,97.65,6249.6
+CB-1122,Terminal Block,Smooth,A,0.98,1.0,66.17999999999999,66.2,Parametric (z*sigma*sqrt(LT)),40.4,106.6,205,98.4,At/above ROP -- OK,154.72,31717.6
+CB-1123,Contact Assembly,Erratic,A,0.98,5.0,63.11,315.6,Parametric (z*sigma*sqrt(LT)),75.3,390.9,163,-227.9,Below ROP -- order now,116.02,18911.26
+CB-1124,Molded Case,Smooth,C,0.9,3.0,117.84,353.5,Parametric (z*sigma*sqrt(LT)),17.2,370.7,28,-342.7,Below ROP -- order now,27.31,764.68
+CB-1125,Trip Unit,Smooth,B,0.95,1.0,71.25,71.2,Parametric (z*sigma*sqrt(LT)),34.0,105.2,290,184.8,At/above ROP -- OK,43.78,12696.2
+CB-1126,Terminal Block,Smooth,A,0.98,3.0,150.64,451.9,Parametric (z*sigma*sqrt(LT)),43.2,495.1,460,-35.1,Below ROP -- order now,67.53,31063.8
+CB-1127,Contact Assembly,Smooth,C,0.9,3.0,82.30000000000001,246.9,Parametric (z*sigma*sqrt(LT)),10.9,257.8,23,-234.8,Below ROP -- order now,124.22,2857.06
+CB-1128,Molded Case,Smooth,B,0.95,3.0,88.5,265.5,Parametric (z*sigma*sqrt(LT)),10.5,276.0,54,-222.0,Below ROP -- order now,170.92,9229.679999999998
+CB-1129,Trip Unit,Intermittent,C,0.9,6.0,8.28,66.9,Empirical bootstrap,33.5,100.4,39,-61.4,Below ROP -- order now,60.78,2370.42
+CB-1130,Terminal Block,Smooth,B,0.95,3.0,21.77,65.3,Parametric (z*sigma*sqrt(LT)),10.9,76.2,106,29.8,At/above ROP -- OK,153.12,16230.72
+CB-1131,Contact Assembly,Smooth,C,0.9,2.0,51.209999999999994,102.4,Parametric (z*sigma*sqrt(LT)),19.1,121.5,37,-84.5,Below ROP -- order now,97.06,3591.2200000000003
+CB-1132,Molded Case,Smooth,C,0.9,5.0,71.54,357.7,Parametric (z*sigma*sqrt(LT)),44.9,402.6,85,-317.6,Below ROP -- order now,53.65,4560.25
+CB-1133,Trip Unit,Smooth,C,0.9,1.0,45.29,45.3,Parametric (z*sigma*sqrt(LT)),11.2,56.5,45,-11.5,Below ROP -- order now,125.83,5662.35
+CB-1134,Terminal Block,Intermittent,C,0.9,2.0,24.37,18.1,Empirical bootstrap,33.9,52.0,1,-51.0,Below ROP -- order now,25.95,25.95
+CB-1135,Contact Assembly,Smooth,C,0.9,4.0,57.31,229.2,Parametric (z*sigma*sqrt(LT)),39.1,268.3,0,-268.3,AT ZERO -- order now,131.31,0.0
+CB-1136,Molded Case,Smooth,A,0.98,1.0,88.17,88.2,Parametric (z*sigma*sqrt(LT)),11.4,99.6,227,127.4,At/above ROP -- OK,168.63,38279.01
+CB-1137,Trip Unit,Smooth,C,0.9,6.0,145.31,871.9,Parametric (z*sigma*sqrt(LT)),48.4,920.3,6,-914.3,Below ROP -- order now,144.66,867.96
+CB-1138,Terminal Block,Smooth,A,0.98,6.0,62.489999999999995,374.9,Parametric (z*sigma*sqrt(LT)),102.9,477.8,182,-295.8,Below ROP -- order now,141.42,25738.44
+CB-1139,Contact Assembly,Intermittent,C,0.9,6.0,1.13,39.4,Empirical bootstrap,68.6,108.0,52,-56.0,Below ROP -- order now,47.48,2468.96
+CB-1140,Molded Case,Smooth,C,0.9,6.0,31.0,186.0,Parametric (z*sigma*sqrt(LT)),28.2,214.2,47,-167.2,Below ROP -- order now,19.37,910.39
+CB-1141,Trip Unit,Smooth,C,0.9,2.0,36.9,73.8,Parametric (z*sigma*sqrt(LT)),27.1,100.9,0,-100.9,AT ZERO -- order now,102.78,0.0
+CB-1142,Terminal Block,Smooth,B,0.95,2.0,95.75,191.5,Parametric (z*sigma*sqrt(LT)),64.1,255.6,200,-55.6,Below ROP -- order now,85.21,17042.0
+CB-1143,Contact Assembly,Smooth,B,0.95,5.0,56.1,280.5,Parametric (z*sigma*sqrt(LT)),52.6,333.1,70,-263.1,Below ROP -- order now,144.37,10105.9
+CB-1144,Molded Case,Smooth,C,0.9,5.0,36.08,180.4,Parametric (z*sigma*sqrt(LT)),30.2,210.6,44,-166.6,Below ROP -- order now,108.93,4792.92
+CB-1145,Trip Unit,Intermittent,C,0.9,6.0,7.73,27.4,Empirical bootstrap,38.6,66.0,0,-66.0,AT ZERO -- order now,23.29,0.0
+CB-1146,Terminal Block,Smooth,C,0.9,1.0,113.29,113.3,Parametric (z*sigma*sqrt(LT)),13.9,127.2,16,-111.2,Below ROP -- order now,119.27,1908.32
+CB-1147,Contact Assembly,Smooth,C,0.9,6.0,54.699999999999996,328.2,Parametric (z*sigma*sqrt(LT)),12.3,340.5,29,-311.5,Below ROP -- order now,121.64,3527.56
+CB-1148,Molded Case,Smooth,A,0.98,5.0,60.32,301.6,Parametric (z*sigma*sqrt(LT)),24.2,325.8,174,-151.8,Below ROP -- order now,161.96,28181.04
+CB-1149,Trip Unit,Intermittent,C,0.9,4.0,9.24,30.5,Empirical bootstrap,52.5,83.0,0,-83.0,AT ZERO -- order now,67.14,0.0
+CB-1150,Terminal Block,Smooth,B,0.95,2.0,126.39,252.8,Parametric (z*sigma*sqrt(LT)),31.5,284.3,276,-8.3,Below ROP -- order now,30.48,8412.48
+CB-1151,Contact Assembly,Smooth,C,0.9,1.0,119.41,119.4,Parametric (z*sigma*sqrt(LT)),11.3,130.7,38,-92.7,Below ROP -- order now,80.23,3048.74
+CB-1152,Molded Case,Smooth,B,0.95,6.0,102.36,614.2,Parametric (z*sigma*sqrt(LT)),38.5,652.7,84,-568.7,Below ROP -- order now,132.02,11089.68
+CB-1153,Trip Unit,Smooth,B,0.95,6.0,45.84,275.0,Parametric (z*sigma*sqrt(LT)),55.7,330.7,80,-250.7,Below ROP -- order now,141.0,11280.0
+CB-1154,Terminal Block,Smooth,C,0.9,6.0,123.09,738.5,Parametric (z*sigma*sqrt(LT)),136.8,875.3,47,-828.3,Below ROP -- order now,69.3,3257.1
+CB-1155,Contact Assembly,Intermittent,C,0.9,1.0,2.95,8.3,Empirical bootstrap,27.7,36.0,33,-3.0,Below ROP -- order now,171.34,5654.22
+CB-1156,Molded Case,Smooth,A,0.98,5.0,59.59,298.0,Parametric (z*sigma*sqrt(LT)),18.5,316.5,168,-148.5,Below ROP -- order now,153.47,25782.96
+CB-1157,Trip Unit,Smooth,B,0.95,1.0,39.94,39.9,Parametric (z*sigma*sqrt(LT)),17.2,57.1,98,40.9,At/above ROP -- OK,106.92,10478.16
+CB-1158,Terminal Block,Smooth,C,0.9,1.0,37.82,37.8,Parametric (z*sigma*sqrt(LT)),11.5,49.3,27,-22.3,Below ROP -- order now,4.68,126.36
+CB-1159,Contact Assembly,Smooth,C,0.9,5.0,68.05999999999999,340.3,Parametric (z*sigma*sqrt(LT)),47.8,388.1,14,-374.1,Below ROP -- order now,54.93,769.02
+CB-1160,Molded Case,Smooth,B,0.95,5.0,72.97,364.8,Parametric (z*sigma*sqrt(LT)),53.3,418.1,86,-332.1,Below ROP -- order now,81.01,6966.860000000001
+CB-1161,Trip Unit,Smooth,A,0.98,4.0,125.69000000000001,502.8,Parametric (z*sigma*sqrt(LT)),47.2,550.0,234,-316.0,Below ROP -- order now,141.18,33036.12
+CB-1162,Terminal Block,Smooth,A,0.98,6.0,143.87,863.2,Parametric (z*sigma*sqrt(LT)),62.7,925.9,120,-805.9,Below ROP -- order now,179.47,21536.4
+CB-1163,Contact Assembly,Intermittent,B,0.95,5.0,7.1000000000000005,56.9,Empirical bootstrap,59.1,116.0,87,-29.0,Below ROP -- order now,151.05,13141.35
+CB-1164,Molded Case,Smooth,A,0.98,2.0,66.15,132.3,Parametric (z*sigma*sqrt(LT)),12.9,145.2,204,58.8,At/above ROP -- OK,179.84,36687.36
+CB-1165,Trip Unit,Smooth,C,0.9,1.0,76.71,76.7,Parametric (z*sigma*sqrt(LT)),41.2,117.9,285,167.1,At/above ROP -- OK,18.55,5286.75
+CB-1166,Terminal Block,Intermittent,C,0.9,4.0,0.0,26.0,Empirical bootstrap,40.0,66.0,56,-10.0,Below ROP -- order now,7.65,428.4
+CB-1167,Contact Assembly,Smooth,C,0.9,3.0,56.580000000000005,169.7,Parametric (z*sigma*sqrt(LT)),11.3,181.0,29,-152.0,Below ROP -- order now,140.38,4071.02
+CB-1168,Molded Case,Smooth,C,0.9,1.0,69.77,69.8,Parametric (z*sigma*sqrt(LT)),7.1,76.9,11,-65.9,Below ROP -- order now,164.14,1805.54
+CB-1169,Trip Unit,Smooth,C,0.9,6.0,62.77,376.6,Parametric (z*sigma*sqrt(LT)),72.5,449.1,93,-356.1,Below ROP -- order now,3.46,321.78
+CB-1170,Terminal Block,Smooth,A,0.98,1.0,128.86,128.9,Parametric (z*sigma*sqrt(LT)),28.1,157.0,293,136.0,At/above ROP -- OK,110.05,32244.65
+CB-1171,Contact Assembly,Intermittent,C,0.9,6.0,13.129999999999999,58.6,Empirical bootstrap,86.4,145.0,0,-145.0,AT ZERO -- order now,153.27,0.0
+CB-1172,Molded Case,Smooth,C,0.9,2.0,142.89,285.8,Parametric (z*sigma*sqrt(LT)),15.2,301.0,28,-273.0,Below ROP -- order now,144.67,4050.76
+CB-1173,Trip Unit,Intermittent,C,0.9,1.0,5.7299999999999995,12.2,Empirical bootstrap,38.8,51.0,37,-14.0,Below ROP -- order now,126.42,4677.54
+CB-1174,Terminal Block,Intermittent,C,0.9,5.0,5.0,39.9,Empirical bootstrap,45.1,85.0,50,-35.0,Below ROP -- order now,9.63,481.50000000000006
+CB-1175,Contact Assembly,Smooth,A,0.98,1.0,75.77,75.8,Parametric (z*sigma*sqrt(LT)),6.7,82.5,261,178.5,Well above ROP -- excess,92.05,24025.05
+CB-1176,Molded Case,Smooth,C,0.9,1.0,72.50999999999999,72.5,Parametric (z*sigma*sqrt(LT)),28.0,100.5,35,-65.5,Below ROP -- order now,114.33,4001.55
+CB-1177,Trip Unit,Intermittent,C,0.9,3.0,7.64,15.3,Empirical bootstrap,39.7,55.0,0,-55.0,AT ZERO -- order now,132.9,0.0
+CB-1178,Terminal Block,Smooth,A,0.98,1.0,109.35,109.4,Parametric (z*sigma*sqrt(LT)),11.3,120.7,377,256.3,Well above ROP -- excess,50.56,19061.120000000003
+CB-1179,Contact Assembly,Smooth,B,0.95,4.0,80.74000000000001,323.0,Parametric (z*sigma*sqrt(LT)),108.9,431.9,105,-326.9,Below ROP -- order now,111.05,11660.25
+CB-1180,Molded Case,Smooth,B,0.95,6.0,105.66000000000001,634.0,Parametric (z*sigma*sqrt(LT)),24.6,658.6,84,-574.6,Below ROP -- order now,111.89,9398.76
+CB-1181,Trip Unit,Smooth,A,0.98,2.0,97.09,194.2,Parametric (z*sigma*sqrt(LT)),20.4,214.6,217,2.4,At/above ROP -- OK,128.45,27873.65
+CB-1182,Terminal Block,Smooth,C,0.9,6.0,111.27999999999999,667.7,Parametric (z*sigma*sqrt(LT)),25.7,693.4,66,-627.4,Below ROP -- order now,18.78,1239.48
+CB-1183,Contact Assembly,Smooth,C,0.9,3.0,95.42999999999999,286.3,Parametric (z*sigma*sqrt(LT)),11.6,297.9,40,-257.9,Below ROP -- order now,83.89,3355.6
+CB-1184,Molded Case,Intermittent,C,0.9,6.0,5.02,42.9,Empirical bootstrap,54.1,97.0,47,-50.0,Below ROP -- order now,115.46,5426.62
+CB-1185,Trip Unit,Smooth,B,0.95,3.0,98.78,296.3,Parametric (z*sigma*sqrt(LT)),89.1,385.4,43,-342.4,Below ROP -- order now,170.42,7328.059999999999
+CB-1186,Terminal Block,Smooth,A,0.98,1.0,118.72,118.7,Parametric (z*sigma*sqrt(LT)),20.3,139.0,251,112.0,At/above ROP -- OK,105.1,26380.1
+CB-1187,Contact Assembly,Smooth,B,0.95,2.0,52.25,104.5,Parametric (z*sigma*sqrt(LT)),38.1,142.6,65,-77.6,Below ROP -- order now,169.46,11014.9
+CB-1188,Molded Case,Smooth,B,0.95,4.0,109.01,436.0,Parametric (z*sigma*sqrt(LT)),37.8,473.8,200,-273.8,Below ROP -- order now,92.73,18546.0
+CB-1189,Trip Unit,Smooth,C,0.9,6.0,120.15,720.9,Parametric (z*sigma*sqrt(LT)),29.8,750.7,47,-703.7,Below ROP -- order now,23.66,1112.02
+CB-1190,Terminal Block,Smooth,B,0.95,3.0,57.77,173.3,Parametric (z*sigma*sqrt(LT)),14.5,187.8,164,-23.8,Below ROP -- order now,51.86,8505.039999999999
+CB-1191,Contact Assembly,Smooth,B,0.95,4.0,144.35,577.4,Parametric (z*sigma*sqrt(LT)),26.6,604.0,149,-455.0,Below ROP -- order now,110.95,16531.55
+CB-1192,Molded Case,Smooth,B,0.95,3.0,73.98,221.9,Parametric (z*sigma*sqrt(LT)),54.1,276.0,86,-190.0,Below ROP -- order now,75.6,6501.599999999999
+CB-1193,Trip Unit,Smooth,C,0.9,6.0,81.79,490.7,Parametric (z*sigma*sqrt(LT)),14.0,504.7,34,-470.7,Below ROP -- order now,106.92,3635.28
+CB-1194,Terminal Block,Smooth,C,0.9,2.0,143.78,287.6,Parametric (z*sigma*sqrt(LT)),14.1,301.7,424,122.3,At/above ROP -- OK,8.9,3773.6
+CB-1195,Contact Assembly,Smooth,B,0.95,3.0,123.22000000000001,369.7,Parametric (z*sigma*sqrt(LT)),25.5,395.2,439,43.8,At/above ROP -- OK,42.54,18675.06
+CB-1196,Molded Case,Smooth,C,0.9,3.0,94.47,283.4,Parametric (z*sigma*sqrt(LT)),70.3,353.7,55,-298.7,Below ROP -- order now,102.92,5660.6
+CB-1197,Trip Unit,Smooth,A,0.98,4.0,57.580000000000005,230.3,Parametric (z*sigma*sqrt(LT)),65.9,296.2,184,-112.2,Below ROP -- order now,118.31,21769.04
+CB-1198,Terminal Block,Smooth,A,0.98,4.0,158.0,632.0,Parametric (z*sigma*sqrt(LT)),76.7,708.7,288,-420.7,Below ROP -- order now,142.27,40973.76
+CB-1199,Contact Assembly,Smooth,C,0.9,2.0,32.04,64.1,Parametric (z*sigma*sqrt(LT)),15.7,79.8,36,-43.8,Below ROP -- order now,113.62,4090.32
+CB-1200,Molded Case,Smooth,A,0.98,3.0,105.49,316.5,Parametric (z*sigma*sqrt(LT)),29.3,345.8,360,14.2,At/above ROP -- OK,93.51,33663.6

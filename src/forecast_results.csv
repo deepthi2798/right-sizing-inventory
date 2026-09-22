@@ -1,0 +1,201 @@
+sku_id,sb_class,method,backtest_mae,backtest_bias,forecast_mean_next_horizon
+CB-1001,Intermittent,Croston-SBA,4.24,3.61,4.22
+CB-1002,Smooth,Pooled-seasonal Holt,15.1,-5.18,64.16
+CB-1003,Intermittent,Croston-SBA,13.69,0.75,7.56
+CB-1004,Smooth,Pooled-seasonal Holt,10.11,-9.89,165.57
+CB-1005,Smooth,Pooled-seasonal Holt,2.94,0.32,70.63
+CB-1006,Intermittent,Croston-SBA,13.63,-5.11,7.96
+CB-1007,Smooth,Pooled-seasonal Holt,10.09,-5.18,142.41
+CB-1008,Intermittent,Croston-SBA,17.0,-8.69,10.16
+CB-1009,Intermittent,Croston-SBA,10.65,-5.71,4.75
+CB-1010,Intermittent,Croston-SBA,13.37,-7.14,7.06
+CB-1011,Smooth,Pooled-seasonal Holt,6.3,0.58,142.07
+CB-1012,Smooth,Pooled-seasonal Holt,8.91,-4.67,147.75
+CB-1013,Smooth,Pooled-seasonal Holt,20.65,-7.58,103.4
+CB-1014,Smooth,Pooled-seasonal Holt,7.31,-5.39,104.59
+CB-1015,Smooth,Pooled-seasonal Holt,6.36,-2.53,143.07
+CB-1016,Smooth,Pooled-seasonal Holt,8.73,2.35,132.63
+CB-1017,Smooth,Pooled-seasonal Holt,5.78,-5.22,65.57
+CB-1018,Smooth,Pooled-seasonal Holt,6.13,-2.89,135.31
+CB-1019,Intermittent,Croston-SBA,14.46,1.54,10.24
+CB-1020,Smooth,Pooled-seasonal Holt,15.13,-10.18,48.26
+CB-1021,Smooth,Pooled-seasonal Holt,5.16,1.25,87.87
+CB-1022,Smooth,Pooled-seasonal Holt,12.3,-7.08,47.27
+CB-1023,Intermittent,Croston-SBA,17.56,-8.63,9.76
+CB-1024,Smooth,Pooled-seasonal Holt,6.24,-5.25,70.25
+CB-1025,Smooth,Pooled-seasonal Holt,23.15,-1.86,111.87
+CB-1026,Intermittent,Croston-SBA,9.48,-1.67,6.81
+CB-1027,Smooth,Pooled-seasonal Holt,15.15,-2.69,70.42
+CB-1028,Smooth,Pooled-seasonal Holt,4.38,1.31,132.34
+CB-1029,Smooth,Pooled-seasonal Holt,6.58,-5.72,103.37
+CB-1030,Smooth,Pooled-seasonal Holt,5.56,0.21,120.72
+CB-1031,Smooth,Pooled-seasonal Holt,3.44,-3.05,66.93
+CB-1032,Smooth,Pooled-seasonal Holt,11.81,-1.79,56.0
+CB-1033,Smooth,Pooled-seasonal Holt,11.57,-6.82,34.53
+CB-1034,Smooth,Pooled-seasonal Holt,7.03,-7.03,99.27
+CB-1035,Smooth,Pooled-seasonal Holt,8.96,-8.15,146.16
+CB-1036,Smooth,Pooled-seasonal Holt,3.79,-2.71,65.92
+CB-1037,Smooth,Pooled-seasonal Holt,7.22,0.17,76.57
+CB-1038,Smooth,Pooled-seasonal Holt,4.23,-1.08,66.63
+CB-1039,Smooth,Pooled-seasonal Holt,14.04,5.6,44.8
+CB-1040,Smooth,Pooled-seasonal Holt,3.85,-0.31,77.29
+CB-1041,Intermittent,Croston-SBA,21.31,-18.51,10.47
+CB-1042,Intermittent,Croston-SBA,14.87,-5.89,7.98
+CB-1043,Smooth,Pooled-seasonal Holt,8.2,-1.74,36.46
+CB-1044,Smooth,Pooled-seasonal Holt,5.67,-1.04,98.58
+CB-1045,Smooth,Pooled-seasonal Holt,9.29,-1.04,66.05
+CB-1046,Smooth,Pooled-seasonal Holt,10.7,-5.74,67.42
+CB-1047,Intermittent,Croston-SBA,13.12,-7.91,6.93
+CB-1048,Smooth,Pooled-seasonal Holt,6.82,-6.82,76.35
+CB-1049,Smooth,Pooled-seasonal Holt,40.62,-13.9,100.2
+CB-1050,Smooth,Pooled-seasonal Holt,15.4,-10.98,61.82
+CB-1051,Smooth,Pooled-seasonal Holt,6.86,-5.78,26.57
+CB-1052,Smooth,Pooled-seasonal Holt,7.14,-4.74,90.87
+CB-1053,Smooth,Pooled-seasonal Holt,5.54,-2.14,94.32
+CB-1054,Smooth,Pooled-seasonal Holt,9.5,-5.61,145.28
+CB-1055,Smooth,Pooled-seasonal Holt,5.14,-5.14,104.99
+CB-1056,Intermittent,Croston-SBA,6.41,1.84,4.18
+CB-1057,Smooth,Pooled-seasonal Holt,6.04,-1.3,34.42
+CB-1058,Smooth,Pooled-seasonal Holt,6.11,0.08,24.34
+CB-1059,Smooth,Pooled-seasonal Holt,6.39,-5.92,81.62
+CB-1060,Smooth,Pooled-seasonal Holt,2.81,-1.99,93.03
+CB-1061,Lumpy,Croston-SBA,14.11,-8.56,6.02
+CB-1062,Smooth,Pooled-seasonal Holt,7.94,1.33,49.74
+CB-1063,Smooth,Pooled-seasonal Holt,6.43,-5.09,34.05
+CB-1064,Smooth,Pooled-seasonal Holt,24.1,-3.56,84.25
+CB-1065,Smooth,Pooled-seasonal Holt,2.44,-0.89,80.29
+CB-1066,Smooth,Pooled-seasonal Holt,2.72,-2.35,56.76
+CB-1067,Smooth,Pooled-seasonal Holt,5.58,2.51,96.93
+CB-1068,Smooth,Pooled-seasonal Holt,4.84,-2.86,70.94
+CB-1069,Smooth,Pooled-seasonal Holt,9.48,-6.55,151.19
+CB-1070,Intermittent,Croston-SBA,6.02,2.2,4.67
+CB-1071,Smooth,Pooled-seasonal Holt,9.73,-8.02,125.49
+CB-1072,Intermittent,Croston-SBA,6.9,2.2,4.13
+CB-1073,Intermittent,Croston-SBA,6.53,6.53,6.53
+CB-1074,Smooth,Pooled-seasonal Holt,3.94,-1.95,86.89
+CB-1075,Smooth,Pooled-seasonal Holt,31.24,-20.74,89.84
+CB-1076,Smooth,Pooled-seasonal Holt,28.3,-10.77,82.35
+CB-1077,Intermittent,Croston-SBA,10.03,3.93,7.39
+CB-1078,Intermittent,Croston-SBA,10.29,4.68,9.75
+CB-1079,Smooth,Pooled-seasonal Holt,2.83,-2.17,52.0
+CB-1080,Smooth,Pooled-seasonal Holt,4.89,-4.89,66.04
+CB-1081,Intermittent,Croston-SBA,10.56,10.56,10.56
+CB-1082,Smooth,Pooled-seasonal Holt,6.73,-5.51,92.94
+CB-1083,Smooth,Pooled-seasonal Holt,8.39,-5.45,113.16
+CB-1084,Smooth,Pooled-seasonal Holt,6.26,-4.8,149.55
+CB-1085,Smooth,Pooled-seasonal Holt,19.88,-3.98,108.44
+CB-1086,Intermittent,Croston-SBA,11.25,4.21,8.25
+CB-1087,Smooth,Pooled-seasonal Holt,10.65,3.33,83.75
+CB-1088,Intermittent,Croston-SBA,9.0,-3.37,4.57
+CB-1089,Smooth,Pooled-seasonal Holt,4.61,-3.53,106.45
+CB-1090,Intermittent,Croston-SBA,10.31,1.5,7.78
+CB-1091,Intermittent,Croston-SBA,7.14,3.39,5.05
+CB-1092,Smooth,Pooled-seasonal Holt,7.23,0.39,30.86
+CB-1093,Smooth,Pooled-seasonal Holt,8.61,-8.45,89.86
+CB-1094,Smooth,Pooled-seasonal Holt,15.16,1.38,65.69
+CB-1095,Intermittent,Croston-SBA,4.93,4.93,4.93
+CB-1096,Smooth,Pooled-seasonal Holt,2.5,-0.02,56.63
+CB-1097,Intermittent,Croston-SBA,13.74,-3.78,8.85
+CB-1098,Smooth,Pooled-seasonal Holt,14.7,0.55,50.94
+CB-1099,Intermittent,Croston-SBA,12.38,-7.22,7.33
+CB-1100,Smooth,Pooled-seasonal Holt,7.93,-4.15,137.87
+CB-1101,Smooth,Pooled-seasonal Holt,8.75,-4.58,60.45
+CB-1102,Smooth,Pooled-seasonal Holt,7.75,-5.17,90.33
+CB-1103,Smooth,Pooled-seasonal Holt,23.26,7.83,79.43
+CB-1104,Smooth,Pooled-seasonal Holt,6.06,0.48,142.34
+CB-1105,Smooth,Pooled-seasonal Holt,8.25,-8.01,98.3
+CB-1106,Smooth,Pooled-seasonal Holt,7.13,-6.69,79.51
+CB-1107,Smooth,Pooled-seasonal Holt,6.22,-3.63,131.0
+CB-1108,Smooth,Pooled-seasonal Holt,8.88,-8.2,125.43
+CB-1109,Smooth,Pooled-seasonal Holt,3.77,-3.77,56.9
+CB-1110,Smooth,Pooled-seasonal Holt,39.45,-22.38,105.31
+CB-1111,Smooth,Pooled-seasonal Holt,10.59,-5.77,123.74
+CB-1112,Intermittent,Croston-SBA,13.8,-10.44,4.09
+CB-1113,Smooth,Pooled-seasonal Holt,4.84,2.95,146.37
+CB-1114,Smooth,Pooled-seasonal Holt,3.06,-2.55,55.96
+CB-1115,Smooth,Pooled-seasonal Holt,2.95,0.77,66.89
+CB-1116,Smooth,Pooled-seasonal Holt,24.19,-13.73,59.06
+CB-1117,Intermittent,Croston-SBA,6.82,6.82,6.82
+CB-1118,Smooth,Pooled-seasonal Holt,12.27,-12.27,148.19
+CB-1119,Intermittent,Croston-SBA,8.78,-2.38,5.66
+CB-1120,Intermittent,Croston-SBA,9.67,-4.66,3.72
+CB-1121,Intermittent,Croston-SBA,12.1,3.96,9.42
+CB-1122,Smooth,Pooled-seasonal Holt,15.69,-0.8,65.38
+CB-1123,Erratic,Pooled-seasonal Holt,13.09,13.09,76.2
+CB-1124,Smooth,Pooled-seasonal Holt,6.18,-2.42,115.42
+CB-1125,Smooth,Pooled-seasonal Holt,16.48,6.89,78.14
+CB-1126,Smooth,Pooled-seasonal Holt,9.69,-6.54,144.1
+CB-1127,Smooth,Pooled-seasonal Holt,3.93,-3.65,78.65
+CB-1128,Smooth,Pooled-seasonal Holt,2.94,0.92,89.42
+CB-1129,Intermittent,Croston-SBA,13.09,0.3,8.58
+CB-1130,Smooth,Pooled-seasonal Holt,3.05,-0.3,21.47
+CB-1131,Smooth,Pooled-seasonal Holt,8.39,-4.16,47.05
+CB-1132,Smooth,Pooled-seasonal Holt,12.51,-6.26,65.28
+CB-1133,Smooth,Pooled-seasonal Holt,6.99,-2.19,43.1
+CB-1134,Intermittent,Croston-SBA,21.0,-14.56,9.81
+CB-1135,Smooth,Pooled-seasonal Holt,12.17,-11.8,45.51
+CB-1136,Smooth,Pooled-seasonal Holt,4.42,-0.19,87.98
+CB-1137,Smooth,Pooled-seasonal Holt,12.31,-7.99,137.32
+CB-1138,Smooth,Pooled-seasonal Holt,16.32,7.17,69.66
+CB-1139,Intermittent,Croston-SBA,4.59,3.2,4.33
+CB-1140,Smooth,Pooled-seasonal Holt,7.17,4.68,35.68
+CB-1141,Smooth,Pooled-seasonal Holt,11.92,1.89,38.79
+CB-1142,Smooth,Pooled-seasonal Holt,21.97,-16.69,79.06
+CB-1143,Smooth,Pooled-seasonal Holt,11.41,-11.18,44.92
+CB-1144,Smooth,Pooled-seasonal Holt,8.4,-3.42,32.66
+CB-1145,Intermittent,Croston-SBA,10.24,-2.97,4.76
+CB-1146,Smooth,Pooled-seasonal Holt,8.63,-0.23,113.06
+CB-1147,Smooth,Pooled-seasonal Holt,3.13,-2.01,52.69
+CB-1148,Smooth,Pooled-seasonal Holt,4.21,0.99,61.31
+CB-1149,Intermittent,Croston-SBA,13.41,-2.06,7.18
+CB-1150,Smooth,Pooled-seasonal Holt,10.79,-7.3,119.09
+CB-1151,Smooth,Pooled-seasonal Holt,7.05,-4.36,115.05
+CB-1152,Smooth,Pooled-seasonal Holt,7.62,-4.76,97.6
+CB-1153,Smooth,Pooled-seasonal Holt,11.02,1.51,47.35
+CB-1154,Smooth,Pooled-seasonal Holt,34.77,-10.75,112.34
+CB-1155,Intermittent,Croston-SBA,6.78,2.62,5.57
+CB-1156,Smooth,Pooled-seasonal Holt,3.21,-0.49,59.1
+CB-1157,Smooth,Pooled-seasonal Holt,8.34,2.03,41.97
+CB-1158,Smooth,Pooled-seasonal Holt,7.13,-3.44,34.38
+CB-1159,Smooth,Pooled-seasonal Holt,13.31,4.15,72.21
+CB-1160,Smooth,Pooled-seasonal Holt,11.57,-11.57,61.4
+CB-1161,Smooth,Pooled-seasonal Holt,9.16,-3.04,122.65
+CB-1162,Smooth,Pooled-seasonal Holt,9.95,-4.97,138.9
+CB-1163,Intermittent,Croston-SBA,14.84,4.55,11.65
+CB-1164,Smooth,Pooled-seasonal Holt,3.55,-3.34,62.81
+CB-1165,Smooth,Pooled-seasonal Holt,25.64,11.92,88.63
+CB-1166,Intermittent,Croston-SBA,8.13,8.13,8.13
+CB-1167,Smooth,Pooled-seasonal Holt,4.07,0.12,56.7
+CB-1168,Smooth,Pooled-seasonal Holt,4.41,-3.46,66.31
+CB-1169,Smooth,Pooled-seasonal Holt,18.41,-4.45,58.32
+CB-1170,Smooth,Pooled-seasonal Holt,10.92,-9.32,119.54
+CB-1171,Intermittent,Croston-SBA,14.0,-2.3,10.83
+CB-1172,Smooth,Pooled-seasonal Holt,6.69,-3.95,138.94
+CB-1173,Intermittent,Croston-SBA,13.7,5.72,11.45
+CB-1174,Intermittent,Croston-SBA,8.29,-0.03,4.97
+CB-1175,Smooth,Pooled-seasonal Holt,2.62,0.4,76.17
+CB-1176,Smooth,Pooled-seasonal Holt,17.45,-4.94,67.57
+CB-1177,Intermittent,Croston-SBA,10.53,-3.46,4.18
+CB-1178,Smooth,Pooled-seasonal Holt,4.39,-0.05,109.3
+CB-1179,Smooth,Pooled-seasonal Holt,26.41,-12.79,67.95
+CB-1180,Smooth,Pooled-seasonal Holt,4.87,0.88,106.54
+CB-1181,Smooth,Pooled-seasonal Holt,5.61,-4.86,92.23
+CB-1182,Smooth,Pooled-seasonal Holt,6.52,-1.57,109.71
+CB-1183,Smooth,Pooled-seasonal Holt,4.17,-0.63,94.8
+CB-1184,Intermittent,Croston-SBA,10.79,3.59,8.61
+CB-1185,Smooth,Pooled-seasonal Holt,24.94,-24.94,73.84
+CB-1186,Smooth,Pooled-seasonal Holt,7.9,-5.7,113.02
+CB-1187,Smooth,Pooled-seasonal Holt,13.08,-4.96,47.29
+CB-1188,Smooth,Pooled-seasonal Holt,9.17,-2.9,106.11
+CB-1189,Smooth,Pooled-seasonal Holt,7.56,-5.5,114.65
+CB-1190,Smooth,Pooled-seasonal Holt,4.07,-3.68,54.09
+CB-1191,Smooth,Pooled-seasonal Holt,6.44,-5.22,139.13
+CB-1192,Smooth,Pooled-seasonal Holt,15.15,-10.67,63.31
+CB-1193,Smooth,Pooled-seasonal Holt,3.56,-1.53,80.26
+CB-1194,Smooth,Pooled-seasonal Holt,6.21,-3.9,139.88
+CB-1195,Smooth,Pooled-seasonal Holt,7.15,2.71,125.93
+CB-1196,Smooth,Pooled-seasonal Holt,25.25,3.68,98.15
+CB-1197,Smooth,Pooled-seasonal Holt,12.8,-1.63,55.95
+CB-1198,Smooth,Pooled-seasonal Holt,14.89,-14.89,143.11
+CB-1199,Smooth,Pooled-seasonal Holt,6.91,-3.18,28.86
+CB-1200,Smooth,Pooled-seasonal Holt,6.57,-0.75,104.74
